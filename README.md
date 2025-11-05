@@ -1,0 +1,3 @@
+This repository contains a dataset for tablet press parameters and output tablet characteristics, a jupyternotebook with the three models we built for this project as well as a combined evaulation code all three models ran in for comparison of performance parameters.
+For the project we used a dataset of 100 records, where the first 80 were used for training, the next ten for testing and the final ten for validation.
+Feel free to peruse the jupyternotebook and run the models locally, but the predicted vs actual output for each of the models with both the testing and validation dataset are also availiable in the folder named correspondingly.
